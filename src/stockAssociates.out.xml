@@ -1,0 +1,151 @@
+<html>
+<body>
+<h2>Photon Images</h2>
+<table border="1">
+<tr bgcolor="#9acd32">
+<th>ID</th><th>Name</th><th>Description</th><th>Author</th><th>Width</th><th>Height</th>
+</tr>
+<tr>
+<td>ID26</td><td>amsterdam.jpg</td><td>Alltag in Amsterdam...</td><td>Donald</td><td>1024</td><td>683</td>
+</tr>
+<tr>
+<td>ID27</td><td>arena.jpg</td><td>Aufgenommen bei Katusice, Tschechische Republik.</td><td>Donald</td><td>1280</td><td>1938</td>
+</tr>
+<tr>
+<td>ID2</td><td>beeren.jpg</td><td>Ob sie essbar sind oder nicht, wer wei&szlig; das schon?</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID3</td><td>bilbao.jpg</td><td>Eine sch&ouml;ne Br&uuml;cke in Bilbao, in der N&auml;he des Guggenheim-Museums.</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID4</td><td>bohnen.jpg</td><td>Was gibt es mehr zu sagen?</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID5</td><td>boule.jpg</td><td>M&auml;nnersport mit Reflektionen</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID28</td><td>buschberg.jpg</td><td>Freihand-Panorama vom Buschberg in &Ouml;?sterreich, nahe der tschechischen Grenze.</td><td>Donald</td><td>1600</td><td>248</td>
+</tr>
+<tr>
+<td>ID6</td><td>catedraldelbuenpastor.jpg</td><td>Kathedrale in Donostia, Spanien.</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID7</td><td>donostia.jpg</td><td>Das "Wahrzeichen" von Donostia, oder ein Teil davon (an der K&uuml;ste gibt es noch mehr).</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID29</td><td>drachen.jpg</td><td>Drachenfigur aus gepressten Dosen im Jardin des Plantes, Paris.</td><td>Donald</td><td>1024</td><td>768</td>
+</tr>
+<tr>
+<td>ID1</td><td>eis.jpg</td><td>Aufnahme aus dem Inneren des HSZ im Winter 2009/2010.</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID30</td><td>eisbrocken.jpg</td><td>Ziemlich kalt...</td><td>Donald</td><td>1280</td><td>854</td>
+</tr>
+<tr>
+<td>ID31</td><td>eisholz.jpg</td><td>Steg hinter der Fakult&auml;t an einem Wintertag.</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID8</td><td>falke.jpg</td><td>... hat sich gerade einen Menschen geangelt.</td><td>MaNi</td><td>1200</td><td>871</td>
+</tr>
+<tr>
+<td>ID32</td><td>feld.jpg</td><td>Kornfeld in Tschechien</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID9</td><td>feuerbluete.jpg</td><td>Nicht anfassen, hei&szlig;!</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID10</td><td>fractions.jpg</td><td>...</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID11</td><td>frosch.jpg</td><td>sitzt im Teich.</td><td>MaNi</td><td>1200</td><td>767</td>
+</tr>
+<tr>
+<td>ID12</td><td>fruehling.jpg</td><td>...</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID33</td><td>gang.jpg</td><td>Der Ausgang befindet sich in dieser Richtung.</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID13</td><td>gridlayout.jpg</td><td>...alles gerastert.</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID34</td><td>gruen.jpg</td><td>Durch eines der gr&uuml;nen Fenster im Foyer aufgenommen.</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID35</td><td>hdr.jpg</td><td>...</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID36</td><td>lampe.jpg</td><td>So sehen Stra&szlig;enlampen in den Niederlanden aus... Delft, NL.</td><td>Donald</td><td>533</td><td>800</td>
+</tr>
+<tr>
+<td>ID14</td><td>leben.jpg</td><td>Die Farbe des Lebens.</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID15</td><td>leckerbissen.jpg</td><td>Jetzt auch als Snack f&uuml;r zwischendurch!</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID16</td><td>lndw.jpg</td><td>Lange Nacht der Wissenschaften 2009.</td><td>MaNi</td><td>800</td><td>1200</td>
+</tr>
+<tr>
+<td>ID37</td><td>mainframe.jpg</td><td>Ausstellungsst&uuml;ck anl&auml;sslich des Mainframe Summit 2009.</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID38</td><td>mohn.jpg</td><td>Mohnfeld in Tschechien bei Humpolec.</td><td>Donald</td><td>1280</td><td>1920</td>
+</tr>
+<tr>
+<td>ID17</td><td>morninggold.jpg</td><td>So sagt man sich. In der Fakult&auml;t kann man auch dem Edelmetall nachjagen, wenn das Licht richtig hereinf&auml;llt...</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID39</td><td>open.jpg</td><td>Wir haben ge&ouml;ffnet - Telc, Tschechische Republik.</td><td>Donald</td><td>1280</td><td>1687</td>
+</tr>
+<tr>
+<td>ID18</td><td>output.jpg</td><td>Gesammelte Werke</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID40</td><td>plauen.jpg</td><td>HDR-Foto der Tharandter Stra&szlig;e.</td><td>Donald</td><td>1024</td><td>683</td>
+</tr>
+<tr>
+<td>ID19</td><td>puentedelazurriola.jpg</td><td>Letzte Br&uuml;cke vor der K&uuml;ste in Donostia.</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID20</td><td>roboter.jpg</td><td>Im Einf&uuml;hrungspraktikum sollen diese selbstgebauten Roboter einer schwarzen Linie folgen und dabei viele T&uuml;cken umgehen.</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID41</td><td>schilf.jpg</td><td>Schilf am Teich hinter der Fakult&auml;t.</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID42</td><td>schnee.jpg</td><td>Sowas kennt man sonst nur mit Sand.</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID21</td><td>seerose.jpg</td><td>Fakult&auml;tsteichflora</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID43</td><td>skywalk.jpg</td><td>Der Skywalk zur CeBIT in Hannover.</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID22</td><td>splash.jpg</td><td>t(x) = t(nass) - 0.2s</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID23</td><td>steine.jpg</td><td>Steint&uuml;rmchen am Strand</td><td>MaNi</td><td>800</td><td>1200</td>
+</tr>
+<tr>
+<td>ID45</td><td>strasse.jpg</td><td>Langzeitbelichtung von einer Br&uuml;cke bei Hannover.</td><td>Donald</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID24</td><td>strelizie.jpg</td><td>Die bekannteste Pflanze Teneriffas.</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID46</td><td>telc.jpg</td><td>Weltkulturerbestadt Telc, Tschechische Republik.</td><td>Karl</td><td>1280</td><td>850</td>
+</tr>
+<tr>
+<td>ID25</td><td>teufelchen.jpg</td><td>...</td><td>MaNi</td><td>1200</td><td>800</td>
+</tr>
+<tr>
+<td>ID47</td><td>tunnel.jpg</td><td>...</td><td>Karl</td><td>1280</td><td>853</td>
+</tr>
+<tr>
+<td>ID48</td><td>wtc.jpg</td><td>Das World Trade Center Dresden im Winter.</td><td>Karl</td><td>1280</td><td>853</td>
+</tr>
+</table>
+</body>
+</html>
